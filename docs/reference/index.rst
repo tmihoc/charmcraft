@@ -10,8 +10,12 @@ data can be found in the `Charm SDK docs <https://juju.is/docs/sdk/reference>`_.
 .. toctree::
     :maxdepth: 2
 
-    commands
-    models/index
-    parts
-    plugins/index
-    changelog
+    bundle
+    charm
+    charmcraft
+    charmcraft-cli
+    extension
+    /common/craft-parts/explanation/filesets
+    part
+    profile
+

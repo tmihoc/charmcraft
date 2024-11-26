@@ -10,13 +10,14 @@ Most of Charmcraft's documentation is available there.
    :maxdepth: 1
    :hidden:
 
+   tutorial/index   
    howto/index
    reference/index
    explanation/index
 
 .. grid:: 1 1 2 2
 
-   .. grid-item-card:: `Tutorial <https://juju.is/docs/sdk/tutorials>`_
+   .. grid-item-card:: `Tutorial <tutorial>`_
 
       **Get started** with a hands-on introduction to Charmcraft
 
